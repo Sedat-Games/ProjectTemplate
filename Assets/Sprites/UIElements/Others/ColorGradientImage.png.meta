@@ -1,0 +1,1932 @@
+fileFormatVersion: 2
+guid: c02564448094b854c8d29e99ba3ad99d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3603120017098411491
+    second: ColorGradientImage_0
+  - first:
+      213: 1025200151214623237
+    second: ColorGradientImage_1
+  - first:
+      213: 4938024307885120511
+    second: ColorGradientImage_2
+  - first:
+      213: -5805645091338391027
+    second: ColorGradientImage_3
+  - first:
+      213: 9132338103294849105
+    second: ColorGradientImage_4
+  - first:
+      213: 134879269736093027
+    second: ColorGradientImage_5
+  - first:
+      213: -4927017446850385016
+    second: ColorGradientImage_6
+  - first:
+      213: 114807965944173279
+    second: ColorGradientImage_7
+  - first:
+      213: -5811533287301781756
+    second: ColorGradientImage_8
+  - first:
+      213: -7582685612205799735
+    second: ColorGradientImage_9
+  - first:
+      213: 8680369851191968688
+    second: ColorGradientImage_10
+  - first:
+      213: -327009342013911681
+    second: ColorGradientImage_11
+  - first:
+      213: -859403680268805818
+    second: ColorGradientImage_12
+  - first:
+      213: 285540310601578423
+    second: ColorGradientImage_13
+  - first:
+      213: -7647290459817013588
+    second: ColorGradientImage_14
+  - first:
+      213: 4769210076112498851
+    second: ColorGradientImage_15
+  - first:
+      213: -7767750789712573916
+    second: ColorGradientImage_16
+  - first:
+      213: -3606844481921617926
+    second: ColorGradientImage_17
+  - first:
+      213: -9133636238351333471
+    second: ColorGradientImage_18
+  - first:
+      213: 7212434808784411233
+    second: ColorGradientImage_19
+  - first:
+      213: 7254547599841703699
+    second: ColorGradientImage_20
+  - first:
+      213: 5563382267373098363
+    second: ColorGradientImage_21
+  - first:
+      213: -2915617295712210794
+    second: ColorGradientImage_22
+  - first:
+      213: -2101965685786824187
+    second: ColorGradientImage_23
+  - first:
+      213: 402775440165925724
+    second: ColorGradientImage_24
+  - first:
+      213: 451579442903731371
+    second: ColorGradientImage_25
+  - first:
+      213: -35600235292578000
+    second: ColorGradientImage_26
+  - first:
+      213: 5620408256374509738
+    second: ColorGradientImage_27
+  - first:
+      213: -5070893003352801633
+    second: ColorGradientImage_28
+  - first:
+      213: -1409806922604013320
+    second: ColorGradientImage_29
+  - first:
+      213: -1025239662878740947
+    second: ColorGradientImage_30
+  - first:
+      213: 65571344083883595
+    second: ColorGradientImage_31
+  - first:
+      213: 8982385269884311262
+    second: ColorGradientImage_32
+  - first:
+      213: 466081043270581711
+    second: ColorGradientImage_33
+  - first:
+      213: -5731665066279996853
+    second: ColorGradientImage_34
+  - first:
+      213: -8141690266186562473
+    second: ColorGradientImage_35
+  - first:
+      213: -8709719194153991261
+    second: ColorGradientImage_36
+  - first:
+      213: -3206918972815495851
+    second: ColorGradientImage_37
+  - first:
+      213: 8877817296348463205
+    second: ColorGradientImage_38
+  - first:
+      213: -8736723840665942393
+    second: ColorGradientImage_39
+  - first:
+      213: -4697741434764399801
+    second: ColorGradientImage_40
+  - first:
+      213: 7166070637257965777
+    second: ColorGradientImage_41
+  - first:
+      213: 7723374581913450143
+    second: ColorGradientImage_42
+  - first:
+      213: 3193525437356915897
+    second: ColorGradientImage_43
+  - first:
+      213: 7112594960858829719
+    second: ColorGradientImage_44
+  - first:
+      213: 3562017489350895416
+    second: ColorGradientImage_45
+  - first:
+      213: 4898425602305613233
+    second: ColorGradientImage_46
+  - first:
+      213: 623218479960621627
+    second: ColorGradientImage_47
+  - first:
+      213: 4709894879492689264
+    second: ColorGradientImage_48
+  - first:
+      213: -4044762311412084550
+    second: ColorGradientImage_49
+  - first:
+      213: -7517547386939921572
+    second: ColorGradientImage_50
+  - first:
+      213: -3583375181792514649
+    second: ColorGradientImage_51
+  - first:
+      213: 69929512991946670
+    second: ColorGradientImage_52
+  - first:
+      213: 5823879007946826536
+    second: ColorGradientImage_53
+  - first:
+      213: -7397370249861147865
+    second: ColorGradientImage_54
+  - first:
+      213: -8997563119120358810
+    second: ColorGradientImage_55
+  - first:
+      213: 6765314571192128255
+    second: ColorGradientImage_56
+  - first:
+      213: 851168076448648202
+    second: ColorGradientImage_57
+  - first:
+      213: 653163349722705604
+    second: ColorGradientImage_58
+  - first:
+      213: -716756537275986266
+    second: ColorGradientImage_59
+  - first:
+      213: -573534505384656604
+    second: ColorGradientImage_60
+  - first:
+      213: -8466011390721505636
+    second: ColorGradientImage_61
+  - first:
+      213: -9197977110216692236
+    second: ColorGradientImage_62
+  - first:
+      213: 7700361205646022430
+    second: ColorGradientImage_63
+  - first:
+      213: -8959187849399866062
+    second: ColorGradientImage_64
+  - first:
+      213: -2374738885757853629
+    second: ColorGradientImage_65
+  - first:
+      213: -8793069293235142614
+    second: ColorGradientImage_66
+  - first:
+      213: -3747994935250000595
+    second: ColorGradientImage_67
+  - first:
+      213: 2117574765637777379
+    second: ColorGradientImage_68
+  - first:
+      213: 4241393026615525224
+    second: ColorGradientImage_69
+  - first:
+      213: 5237973738005867541
+    second: ColorGradientImage_70
+  - first:
+      213: 1791127691457018449
+    second: ColorGradientImage_71
+  - first:
+      213: 8635886573770853472
+    second: ColorGradientImage_72
+  - first:
+      213: -3026438635867008242
+    second: ColorGradientImage_73
+  - first:
+      213: 7007397922051051914
+    second: ColorGradientImage_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ColorGradientImage_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 905
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12ffb14f652ffdc0800000000000000
+      internalID: -3603120017098411491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 905
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a03d41b1e3a3e00800000000000000
+      internalID: 1025200151214623237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 905
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb9cbbf1f2678440800000000000000
+      internalID: 4938024307885120511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_3
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 905
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02f8ce8c843e6fa0800000000000000
+      internalID: -5805645091338391027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 905
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15077a7ae159cbe70800000000000000
+      internalID: 9132338103294849105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_5
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 905
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3651f203bff2fd100800000000000000
+      internalID: 134879269736093027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 905
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ba45e8cb7bf9bb0800000000000000
+      internalID: -4927017446850385016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_7
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 905
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2dc7b9c31e79100800000000000000
+      internalID: 114807965944173279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 782
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407e40a1449495fa0800000000000000
+      internalID: -5811533287301781756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 782
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c602094c93e4c690800000000000000
+      internalID: -7582685612205799735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 782
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3ce4b936ed67870800000000000000
+      internalID: 8680369851191968688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_11
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 782
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dc60b6cba367bf0800000000000000
+      internalID: -327009342013911681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 782
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6491ae6f7e8c214f0800000000000000
+      internalID: -859403680268805818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_13
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 782
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7367e466176f300800000000000000
+      internalID: 285540310601578423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 782
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae8f5808dd5fd590800000000000000
+      internalID: -7647290459817013588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_15
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 782
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a036edbb43af2240800000000000000
+      internalID: 4769210076112498851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 659
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a0c63efc7633490800000000000000
+      internalID: -7767750789712573916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 659
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affebf6bd0ae1fdc0800000000000000
+      internalID: -3606844481921617926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 659
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a70f69bb3ece3180800000000000000
+      internalID: -9133636238351333471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_19
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 659
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ad147de37b71460800000000000000
+      internalID: 7212434808784411233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_20
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 659
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3173ab61b945da460800000000000000
+      internalID: 7254547599841703699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_21
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 659
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b751b7432ba153d40800000000000000
+      internalID: 5563382267373098363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 659
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690b6146485a987d0800000000000000
+      internalID: -2915617295712210794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_23
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 659
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502bd90785154d2e0800000000000000
+      internalID: -2101965685786824187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 536
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53775bf022f69500800000000000000
+      internalID: 402775440165925724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 536
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac452a5c15544600800000000000000
+      internalID: 451579442903731371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_26
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 536
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f277d46c5818ff0800000000000000
+      internalID: -35600235292578000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_27
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 536
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa010ede783bffd40800000000000000
+      internalID: 5620408256374509738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_28
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 536
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e74212ea190a9b0800000000000000
+      internalID: -5070893003352801633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_29
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 536
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f81d48c21c5f6ce0800000000000000
+      internalID: -1409806922604013320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 536
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ea87465fd95c1f0800000000000000
+      internalID: -1025239662878740947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_31
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 536
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46909f3ac4f8e000800000000000000
+      internalID: 65571344083883595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 283
+        width: 41
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6d72fefc7d7ac70800000000000000
+      internalID: 8982385269884311262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 283
+        width: 42
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdbfac4d3ad77600800000000000000
+      internalID: 466081043270581711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_34
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 283
+        width: 41
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b427dd86df80570b0800000000000000
+      internalID: -5731665066279996853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 283
+        width: 42
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754c1b4e6d7e20f80800000000000000
+      internalID: -8141690266186562473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_36
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 283
+        width: 41
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3cc0bf98cd02780800000000000000
+      internalID: -8709719194153991261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_37
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 283
+        width: 42
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d2fd96f2cbe73d0800000000000000
+      internalID: -3206918972815495851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_38
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 283
+        width: 41
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5604ba95bc7543b70800000000000000
+      internalID: 8877817296348463205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_39
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 283
+        width: 42
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7868b60c4fbe0c680800000000000000
+      internalID: -8736723840665942393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_40
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 283
+        width: 41
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74beb360e054eceb0800000000000000
+      internalID: -4697741434764399801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_41
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 283
+        width: 42
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d04e11f64ff27360800000000000000
+      internalID: 7166070637257965777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_42
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 283
+        width: 42
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f967b361340fe2b60800000000000000
+      internalID: 7723374581913450143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_43
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 283
+        width: 42
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc35da177ea15c20800000000000000
+      internalID: 3193525437356915897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_44
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 283
+        width: 42
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7935939ce6305b260800000000000000
+      internalID: 7112594960858829719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_45
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 283
+        width: 42
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8372d70c804de6130800000000000000
+      internalID: 3562017489350895416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_46
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 283
+        width: 42
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdda10e124baf340800000000000000
+      internalID: 4898425602305613233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_47
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 283
+        width: 42
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b320383d7ed16a800800000000000000
+      internalID: 623218479960621627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_48
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 283
+        width: 42
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dc7955078ec5140800000000000000
+      internalID: 4709894879492689264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_49
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 283
+        width: 42
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0156b9b1e1ed7c0800000000000000
+      internalID: -4044762311412084550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_50
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 283
+        width: 42
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ba7433b7e4ca790800000000000000
+      internalID: -7517547386939921572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_51
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 283
+        width: 42
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad6e48f14b454ec0800000000000000
+      internalID: -3583375181792514649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_52
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 18
+        width: 155
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea77335858078f000800000000000000
+      internalID: 69929512991946670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_53
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 142
+        width: 75
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823668bf91392d050800000000000000
+      internalID: 5823879007946826536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_54
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 142
+        width: 75
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723dbf063f2475990800000000000000
+      internalID: -7397370249861147865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_55
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 142
+        width: 74
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662eca8a30c322380800000000000000
+      internalID: -8997563119120358810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_56
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 142
+        width: 75
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff25ea122c933ed50800000000000000
+      internalID: 6765314571192128255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_57
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 142
+        width: 75
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ccfd81bd4ffcb00800000000000000
+      internalID: 851168076448648202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_58
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 140
+        width: 60
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cea6802b90801900800000000000000
+      internalID: 653163349722705604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_59
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 140
+        width: 60
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aec9351ab19d06f0800000000000000
+      internalID: -716756537275986266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_60
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 140
+        width: 61
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4214e14f7656a08f0800000000000000
+      internalID: -573534505384656604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_61
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 140
+        width: 60
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9642a7be7fa28a80800000000000000
+      internalID: -8466011390721505636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_62
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 140
+        width: 60
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd2c5d1d883a5080800000000000000
+      internalID: -9197977110216692236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_63
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 140
+        width: 61
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17dab0e7bd2dda60800000000000000
+      internalID: 7700361205646022430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_64
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 19
+        width: 75
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d66886e129aa380800000000000000
+      internalID: -8959187849399866062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_65
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 19
+        width: 75
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340a818b09b3b0fd0800000000000000
+      internalID: -2374738885757853629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_66
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 19
+        width: 74
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a200353c01eb8f580800000000000000
+      internalID: -8793069293235142614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_67
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 19
+        width: 75
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25e570d6727cfbc0800000000000000
+      internalID: -3747994935250000595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_68
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 19
+        width: 75
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7bb2ba703236d10800000000000000
+      internalID: 2117574765637777379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_69
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 15
+        width: 60
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fbc306c747cda30800000000000000
+      internalID: 4241393026615525224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_70
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 15
+        width: 60
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c2aacdc5501b840800000000000000
+      internalID: 5237973738005867541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_71
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 15
+        width: 61
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a39a4452d5bd810800000000000000
+      internalID: 1791127691457018449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_72
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 15
+        width: 60
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c4d2e7515d8d770800000000000000
+      internalID: 8635886573770853472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_73
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 15
+        width: 60
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0311ae681eeff5d0800000000000000
+      internalID: -3026438635867008242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorGradientImage_74
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 15
+        width: 61
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81d9a788474f3160800000000000000
+      internalID: 7007397922051051914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6a06ea4208d59d74fb882d5a127c99dd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
