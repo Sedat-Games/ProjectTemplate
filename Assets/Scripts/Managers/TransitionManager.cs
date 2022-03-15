@@ -12,6 +12,7 @@ public class TransitionManager : MonoBehaviour
     [SerializeField] private Image fillImage;
     [SerializeField] private TextMeshProUGUI fillText;
 
+
     private float loadingNumber;
 
     void Start()
