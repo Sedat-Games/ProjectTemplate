@@ -14,8 +14,17 @@ public class LevelMapManager : MonoBehaviour
     [SerializeField] float posIncreaseAmount;
     [SerializeField] GameObject levelMapObjHolder;
 
-    void Start()
+    [Header("Level Achivement Objects")]
+    public List<GameObject> achivementObjects;
+    public List<int> achimentLevelNumbers;
+
+ 
+
+    IEnumerator Start()
     {
+        transform.localScale = Vector3.zero;
+        transform.DOScale(Vector3.one, 0.5f);
+
         levelBorder.transform.localScale = new Vector3(
             levelBorder.transform.localScale.x,
             levelBorder.transform.localScale.y * maxLevelNumber,
@@ -44,8 +53,20 @@ public class LevelMapManager : MonoBehaviour
         {
             levelMapObjHolder.transform.DOLocalMoveY(posIncreaseAmount * -(currentLevel - 2), 1);
         }
- 
 
+        
+        if(achivementObjects.Count > 0)
+        {
+            for (int i = 0; i < achivementObjects.Count; i++)
+            {
+                var tempAchivementObj = Instantiate(achivementObjects[i], levelMapObjHolder.transform);
+                tempAchivementObj.transform.localPosition = new Vector3(tempAchivementObj.transform.localPosition.x, ((achimentLevelNumbers[i] - 1) * posIncreaseAmount) - 800, 0);
+            }         
+           
+        }
+
+        yield return null;
     }
 
+     
 }
